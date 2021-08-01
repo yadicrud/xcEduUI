@@ -1,0 +1,19 @@
+{
+  "name": "webpacktest02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.11.5"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --inline --hot --open --port 5008"
+  },
+  "author": "",
+  "license": "ISC"
+}

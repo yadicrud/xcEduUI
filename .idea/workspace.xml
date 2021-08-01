@@ -1,7 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9da158ae-9f5b-432e-80cf-62122ca5d7a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/xcEduUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/build/webpack.test.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/config/proxyConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/config/sysConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/assets/dd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/assets/gg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/api/public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/api/system.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/components/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/components/breadcrumb.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/components/foot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/components/head.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/components/loginForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/base/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/common/bus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/common/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/common/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/menus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/mock/data/course.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/mock/data/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/mock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/mock/mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/course/api/course.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/course/page/course_list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/course/page/learning_video.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/course/page/learning_video_backup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/course/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/exam/page/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/exam/page/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/exam/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/home/api/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/home/page/denied.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/home/page/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/home/page/loginpage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/home/page/logout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/home/page/register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/home/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/order/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/order/page/order_list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/order/page/order_pay.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/order/page/order_weixinpay.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/order/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/question/page/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/question/page/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/question/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/setting/api/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/setting/page/personal_setting.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/module/setting/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/statics/aa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/statics/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/statics/css/vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/statics/mui/css/icons-extra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/statics/mui/css/mui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/statics/mui/fonts/mui-icons-extra.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/statics/mui/fonts/mui.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/statics/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/vuex/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/vuex/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/src/vuex/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/page-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/page-learing-course-videoes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/page-learing-note-release-success.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/page-learing-pay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/page-learing-personal-allclass.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/page-learing-personal-mail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/page-learing-personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/page-learing-sign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/css/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/add.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-icoGather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-login_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-logoIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-myImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-personalIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-scorbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-setIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-star-show.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-star.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-starGrey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-starGreya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-stara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-temp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-timg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-vid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/asset-video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/nonepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-labIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-payIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-regIco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-register_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-step2013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-timg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-topIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/page-verif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-GradeA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-GradeB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-GradeC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-banner3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-bannerA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-bannerB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-bannerBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-btnBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-c.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-codeico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-dem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-demo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-demo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-demo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-demo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-hotIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-icoGather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-icon0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-ind-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-ind-left1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-ind-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-ind-top1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-learNumIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-myImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-popbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-scorbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-teach-adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-timg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-titBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-topBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/images/widget-watermark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/media/video-js.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/normalize-css/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/normalize-css/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/normalize-css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/rainbow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/videojs/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/videojs/video-js.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/videojs/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/videojs/videojs-contrib-hls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/videojs/videojs-contrib-hls.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/videojs/videojs-contrib-hls.min5.14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/videojs/videojs-flash.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/videojs/videojs-ie8.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/webuploader/dist/Uploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/webuploader/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/static/plugins/webuploader/dist/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/test/unit/jest.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/test/unit/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-leanring/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1w7f33PC8s2njnQnxSCtCzFjtYC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9da158ae-9f5b-432e-80cf-62122ca5d7a0" name="Default Changelist" comment="" />
+      <created>1627814345313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627814345313</updated>
+      <workItem from="1627814346820" duration="721000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1627815068358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627815068358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1627815071232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627815071232" />
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627814386927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627814386927" />
+    <state x="757" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1627814382657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627814382657" />
   </component>
 </project>
